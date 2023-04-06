@@ -1,14 +1,14 @@
-7849ea9ed4dfeec49516651e4ebc92e6 *DESCRIPTION
+8b7934ef0dbd09a8625fea2c41831fa3 *DESCRIPTION
 ab0aced39ef939d652b7cb58cf19d0a3 *NAMESPACE
 7ce777c4e4d1eb9bf4cf5ed875368b28 *R/data-cancer.R
 9d6234daecbc9f3f40d35bd798e3b396 *R/gg-theme.R
 1200b474fad18a6573ceca8a5083c89b *R/knots.R
 7b43c68bae89ca5e458f351baa274b9b *R/package.R
-22bbd4c003f6ca68810950e8e1d301a8 *R/plot-RCS.R
+6cf2a542aac9ac8c87688959109cd2a4 *R/plot-RCS.R
 e8ba1cb2605ac86ceca10353fbe5aab8 *R/print-rcsplot.R
 0ffd49ebe4e6656e0ccba0fcb99ee8db *R/utilities.R
 35dde70c3cd3c1f323249779da682507 *data/cancer.rda
 e2ea70e7c6fe759f4e1e2cfc78528048 *man/cancer.Rd
 eaf5963944d7d437079508b7d36a7f25 *man/knot.Rd
 dbff796088464fa383154a2ff4bbf1bf *man/print.rcsplot.Rd
-3ba56c1ce000f36aee400dbdea4fe5a9 *man/rcsplot.Rd
+b74e74f6f1e0ef323319206139dcbc0d *man/rcsplot.Rd
